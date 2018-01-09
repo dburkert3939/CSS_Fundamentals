@@ -1,0 +1,35 @@
+body {
+    background-color: coral;
+}
+
+p {
+    font-family:sans-serif;
+}
+
+#one {
+    color:blue;
+}
+
+#two {
+    color:orange;
+}
+
+#three {
+    color:white;
+}
+
+#four {
+    color:red;
+}
+
+.bordered {
+    border:2px solid fuchsia;
+}
+
+.background-black {
+    background-color: black;
+}
+
+.radius {
+    border-style: dotted;
+}
